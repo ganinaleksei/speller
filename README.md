@@ -1,6 +1,14 @@
-npm install
-npm test
-npm run start
+````
+$ npm install
+````
+
+````
+$ npm test
+````
+
+````
+$ npm run start
+````
 
 api:
 
